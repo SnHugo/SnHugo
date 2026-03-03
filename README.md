@@ -1,9 +1,11 @@
-<h1 align="center">Fala galera!/h1>
+<h1 align="center">Fala galera! h1>
 
 <p align="center">
   🚀 Desenvolvedor em evolução<br>
   💻 FullStack Overflow & SQL
 </p>
+
+---
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,flutter,mysql" />
