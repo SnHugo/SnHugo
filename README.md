@@ -1,4 +1,6 @@
-<h1 align="center">Fala galera! h1>
+<h1 align="center">Fala galera! </h1>
+
+---
 
 <p align="center">
   🚀 Desenvolvedor em evolução<br>
